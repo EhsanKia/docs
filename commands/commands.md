@@ -69,11 +69,11 @@ When adding and editing commands, you can also specific the userlevel required t
 
 #### UserLevel values
 
-* **owner** - Channel Owner
-* **moderator** - Channel Moderator
-* **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
-* **subscriber** - Paid Channel Subscriber
-* **everyone** - Normal User *(default)*
+* *owner* - Channel Owner
+* *moderator* - Channel Moderator
+* *regular* - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
+* *subscriber* - Paid Channel Subscriber
+* *everyone* - Normal User *(default)*
 
 ### Variables
 

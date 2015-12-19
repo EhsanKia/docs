@@ -20,8 +20,8 @@ if the current chat was nightdev's and nightdev called the command
 
 #### UserLevel Values
 
-* **owner** - Channel Owner
-* **moderator** - Channel Moderator
-* **regular** - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
-* **subscriber** - Paid Channel Subscriber
-* **everyone** - Normal User *(default)*
+* *owner* - Channel Owner
+* *moderator* - Channel Moderator
+* *regular* - Nightbot Regular (users in the [regulars](https://docs.nightbot.tv/control-panel/regulars) list)
+* *subscriber* - Paid Channel Subscriber
+* *everyone* - Normal User *(default)*
